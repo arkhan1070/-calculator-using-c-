@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-int main(){ 
+void main(){ 
     system("color b");
     system("start README.txt");
     int first; 
